@@ -29,17 +29,11 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 ```
 
-
-
- Last Updated on 28/10/2022 06:52:05 UTC
-<!--END_SECTION:waka-->
-
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonelysian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![gitHub stats](https://github-readme-stats.vercel.app/api?username=moonelysian&hide=stars,issues,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--END_SECTION:waka-->
 
 ## Link
-
 - blog: https://velog.io/@moonelysian
 - email: yejimun.dev@gmail.com
