@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github stats](https://github-readme-stats.vercel.app/api?username=moonelysian&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonelysian)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moonelysian)]
-(https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moonelysian)](https://github.com/anuraghazra/github-readme-stats)
+
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonelysian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![gitHub stats](https://github-readme-stats.vercel.app/api?username=moonelysian&hide=stars,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## :pushpin: Pinned
 
