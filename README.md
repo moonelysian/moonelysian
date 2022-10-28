@@ -28,11 +28,10 @@ HTML                     3 repos             ██░░░░░░░░░�
 TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.06%
 
 ```
+<!--END_SECTION:waka-->
 
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonelysian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![gitHub stats](https://github-readme-stats.vercel.app/api?username=moonelysian&hide=stars,issues,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--END_SECTION:waka-->
 
 ## Link
 - blog: https://velog.io/@moonelysian
