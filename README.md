@@ -22,13 +22,6 @@ Here are some ideas to get you started:
 [![gitHub stats](https://github-readme-stats.vercel.app/api?username=moonelysian&hide=stars,issues,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## :pushpin: Pinned
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moonelysian&repo=5th-prography)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moonelysian&repo=SURF)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=toy-program&repo=issue-driven-algorithm)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## Link
 
 - blog: https://velog.io/@moonelysian
