@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=moonelysian)](https://github.com/anuraghazra/github-readme-stats) -->
 
+[![gitHub stats](https://github-readme-stats.vercel.app/api?username=moonelysian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--START_SECTION:waka-->
 **저는 주로 JavaScript 언어를 사용해요.** 
 
@@ -30,8 +32,6 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moonelysian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![gitHub stats](https://github-readme-stats.vercel.app/api?username=moonelysian&hide=stars,issues,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Link
 - blog: https://velog.io/@moonelysian
