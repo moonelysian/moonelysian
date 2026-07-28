@@ -48,6 +48,12 @@ Here are some ideas to get you started:
 이번 주에 활동은 없어요.
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **저는 주로 JavaScript 언어를 사용해요.** 
 
 ```text
